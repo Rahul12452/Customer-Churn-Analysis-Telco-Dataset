@@ -1,4 +1,4 @@
-# 📉 Customer Churn Analysis – Telco Dataset
+# 📉 Customer Churn Analysis – Telecom Dataset
 
 📊 **End-to-end Exploratory Data Analysis (EDA) project** focused on understanding customer churn behavior in the telecom industry.  
 🚀 Built using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to uncover key churn drivers and generate actionable business insights.
